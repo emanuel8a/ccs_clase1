@@ -1,7 +1,24 @@
 /* body {
     color: blueviolet;
 } */
-
+/* selector a partir de una etiqueta */
 h2 { 
     color: blue;
+} 
+/* selector a partir de una clase */
+.texto-verde {
+     color: green;
+}
+
+footer {
+    color: pink;
+}
+/* selector a partir de un id */
+#parrafo-rosa {
+    color: blueviolet;
+    font-size: 30px;
+}
+/* selector a partir de etiquetas combinadas */
+header p {
+    color: aqua;
 }
